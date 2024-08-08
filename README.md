@@ -34,7 +34,7 @@
 ![PYTHON](https://img.shields.io/badge/Python-2c2c2c?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
 
 <div align="end">
-  <a href="https://www.linkedin.com/in/guilherme-de-lima-maia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ***
